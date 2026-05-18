@@ -1,3 +1,10 @@
+# Team Members
+Luke Camilleri
+Jake Desira
+Tristin Bezzina
+Kurt Abela
+Nathan Vella
+
 # ARI2129 — Watershed Segmentation Learning Pack
 
 A Computer Vision (ARI2129) group project that explains **marker-controlled
