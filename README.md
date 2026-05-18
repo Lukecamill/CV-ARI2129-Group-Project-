@@ -72,3 +72,6 @@ streamlit run simulator/app.py
 This repository is the deliverable for the ARI2129 Computer Vision group task.
 Alongside the code it includes the presentation, study notes, and quiz listed
 above. The AI usage journal is exported separately as `ai_journal.pdf`.
+
+## Github REPO link
+https://github.com/Lukecamill/CV-ARI2129-Group-Project-.git
